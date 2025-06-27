@@ -1,4 +1,4 @@
-/* strong number */
+/* strong number or krishnamurthy number */
 #include<stdio.h>
 int main()
 {
